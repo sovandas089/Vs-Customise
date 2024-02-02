@@ -1,4 +1,5 @@
-{
+<html><pre><code>
+  {
   "editor.fontFamily": "Dank Mono",
   "editor.fontFamily": "Fragment Mono",
   "editor.fontFamily": "Roboto Thin Italic",
@@ -39,3 +40,7 @@
   "cmake.showOptionsMovedNotification": false,
   "cmake.configureOnOpen": true
 }
+
+
+
+</code></pre></html>
